@@ -31,7 +31,7 @@ I love building systems that are not only functional and efficient — but also 
 ## ⚡ **Fun Facts**
 
 - I started as a **cinema cashier and call agent** 2010, learning the art of communication and customer focus long before writing my first line of code. 
-- Backpacker since 2012, techie since 1992. 
+- Father since 2025, backpacker since 2012, techie since 1992. 
 - I’ve contributed to IT projects across industries — **IoT, automotive, cloud, and sports**.  
 - Outside tech, I enjoy running, traveling, and movies.
 
