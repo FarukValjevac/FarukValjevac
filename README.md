@@ -1,6 +1,6 @@
 # 👋 Vozdrica
 
-### 🚀 Full-Stack Web Developer
+<!-- ### 🚀 Full-Stack Web Developer
 📍 Based in Vienna, Austria 🇦🇹  
 
 I'm a passionate and results-driven **Full-Stack Web Developer** with a strong background in designing and implementing scalable applications across frontend and backend stacks.  
@@ -50,5 +50,5 @@ I love building systems that are not only functional and efficient — but also 
 
 ---
 
-⭐️ *"Clean architecture isn’t just about code — it’s about respect for your future self and your teammates."* 
+⭐️ *"Clean architecture isn’t just about code — it’s about respect for your future self and your teammates."* --> 
 
