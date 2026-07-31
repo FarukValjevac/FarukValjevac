@@ -14,7 +14,7 @@ Cloud/DevOps: ................................................................ A
 AI: .............................................................................. Claude, Codex, Copilot, Ollama
 ML: .................................................................... ⁠Scikit-learn, TensorFlow, Keras, PyTorch
 Testing: ................................................................... Cypress, Playwright, Jest, xUnit.net
-Practices: ........................................................ Clean Code, Agile, Event-driven, API Security
+Practices: ........................................................ Clean Code, Event-driven, API Security, Agile
 
 Education.MSc: .......................................................... Business Informatics, FH Technikum Wien
 Education.MSc: ........................................................ Business Analytics & Big Data, HSE Moscow
