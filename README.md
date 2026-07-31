@@ -1,54 +1,77 @@
-# 👋 Vozdrica
+<table>
+<tr>
+<td valign="top">
 
-<!-- ### 🚀 Full-Stack Web Developer
-📍 Based in Vienna, Austria 🇦🇹  
+<pre>
+................................................:..:.............
+.:;:+;+x+xXxxx++x;xXxXxXX+x++++++++++++X+++;xxX::::;:::::::;;;;;.
+.+;::;:+;+++;++;+;++++++++xxX$$$$XXxx++$+x+++;x+Xxxxx+xx++x++++;.
+.$X+$x;x++++++++++xxxxxxx$$$$:::$X$$$$X$+xx+x+x;+++++++++;+;;;;;.
+.:;;;++++++++x+xxxxxxxX$$$.::::::::::+$$Xx++++X+Xxx++++++++;++;;.
+.++;+++;+++++xxxxxxxxX$$:::;;;;;;;::...:$$xxxxxx+x+x++Xx++++x+++.
+.+:;;+xxXxxXxxxXxxxxX$x:.................$$xxxxxxxxxx++++++++++;.
+.$X$$xx;;++++++xx++x$:...;$&&&&&&&&&&&&...$$+x++++++++x++++;;;;;.
+.++xx+X$$XXXX$XxXX$$$:.:&X$&&&&&&&&&&$&&..;$$x$X$X$XXXXXX+X$XXXX.
+.;;;;;;;;;;;;;;;;++$::.x$$$$&&&&&&&&&&&&&..X$+X+x;;;;;;:;x;:::::.
+.X+x$$x$$x$$$$X$$$$$.:.&&&&&&&&&&&&&&&&&&..X$X$x$$$X$$x$XX$$XX$X.
+.XXX$Xxx++;+;xxx+++$X..&:....;&&&&:.....&&.:$$x+X+x+x++xxxX;xxxx.
+.::;::;++++x+xxxXXX$$..$.x&+:..+&&+...X&&&.x$xXx$$$$$$$$++++++++.
+.$x+$$X$$$X$$xxxxxXX$;x&x.:;&&.;&&&&&&&&&&&X$$xx+;;;;;;++++++;;;.
+.x+xx+xxxxx;;X$$$x$$X:+&&&&&&&X:&&&&&&&&&X&;xXXx$XXxX$xXXX$$XX$$.
+.X+;+x;x+x+xXxXXxXxx$+++&&&&&.&+&&;&;&&&&X&+$$xx$x$$$x++;;;;;;;:.
+.;;$$$$$XX$$$$$xX$$$$X++:;XX.:..;$&&&;+X$$$+Xxxx$$xXXx$$$$X$$X$$.
+.x+;;;;++++++xxxxxxxXXXX+:&&..:&&&$;;:x&&&xx$$Xxxxxxx+++;x+x+;;;.
+.+++x+xx+xxxxXXxXXXXXX$X+X+&&&x:;+;&&&&&$x+X$x$xX$Xx+$xX+X;;;+++.
+.++xx++xxxxxXxXXXXXXX$$Xx$;.;&&&&&&&&&&XXXX:+x$+xxxX$$;XX$X$x;;;.
+.+xxxxxxxxxxXxxxXXX++X..:&&&+.;;&&&&&x:&&+&&X;x$$$$$x$X$$xX$$$$+.
+.+++xxxxx+xxXxxXXXx+&&&:.;+X&$:......;&&&&&XX:::;;;;;;;;;;::::::.
+.++x++xxxx+xxxXxx+x+X;;&;...:+x;;:&&&&&&.+$X&&&::::;xxxXXxX$$$$X.
+.+++xxxxxxxX:::::;+;&::+;..:+;+&&&&&$&&&.:&&$&&&&&&::::.;+:::;;;.
+.+++++++;:::.&&&&&&&.&..&x.:&&;.:;$$$&&..&&&$&&&&&&&&&&&:.:+X+++.
+.++++x+:::;&&&&&&&&&&:&&.&&::&&xXXXX&&..&&&X&&&&&&&&&&&&&&&..;++.
+.++++:.:&&&&&&&&&&&&&..&&..&:.X$+;;+&:.&&&&$&&&&&&&&&&&&&&&&;.;;.
+.+++:.X&&&&&&&&&x&&&&&.&&&&.&.&&&&&&X.&&&&;&&&&&&&&&&&&&&&&&&..:.
+.++;.X&&&X&&&&&&&;&&&&&.&&&&&&+&&&&&;&&&&$&&&&&&&&&&&&&&&&&&&&:;.
+.++;.&&&&&&&&&X&&;&&&&&&.&&&&&&.&&&.&&&&$&&&&&&&&&&&&&&&&&&&&&&..
+.;+:.&&xx&&&&&&:&&&&&&&&:&&&&&&&$&x&&&&&&&&&&&&&&&&&&&&&&&&&&&&..
+.+;:;&&&&&&&$&&&.&$&&&&&&x&&&&&&+&.&&&&;&&&&&&&&&&&&&&&&&&&&&&&:.
+.+;..&&&&&&&&&$&&&$&&&&&&X&&&&&&&&X&&&x&&&&&&&&&&&&&&&&&&&&&&&&&.
+.;..X&;&&&&&&&&&&&$&&&&&&&&&&&&&&.&&&&X&&&&&&&&&&&&&&&&&&&&&&&&&.
+...x&&&&&&&+&&&&&x$&&&&&&&&&&&&&&.&&&:&&&&&&&&&&&&&&&&&&&&&&&&&&:
+</pre>
 
-I'm a passionate and results-driven **Full-Stack Web Developer** with a strong background in designing and implementing scalable applications across frontend and backend stacks.  
-I love building systems that are not only functional and efficient — but also elegant in design and architecture. My professional path took me from **software testing and embedded systems** to embracing **AI Projects** and **Cloud Projects**, and **leading full-stack projects and software architecture** — a journey that taught me to value both precision and creativity.
+</td>
+<td valign="top">
 
----
+<pre>
+faruk-valjevac ────────────────────────────────────────────
+OS: .......................................... macOS, Linux
+Host: ..................................... Vienna, Austria
+Kernel: .......................... Full-Stack Web Developer
+Current: ....................................... Eversports
+Prev: ....................... Bosch Engineering (Tech Lead)
 
-## 🧠 **About Me**
+Languages: ............. TypeScript, JavaScript, Python, C#
+Frameworks: ....... NestJS, Next.js, React, Vue.js, Node.js
+Databases: ............. PostgreSQL, MongoDB, Oracle, Redis
+Cloud/DevOps: .......... AWS, Azure, Docker, GitHub Actions
+AI/ML: ........ Machine Learning, TensorFlow, Keras, Ollama
+Testing: .................................. Jest, xUnit.net
+Practices: ... Clean Code, Agile, Event-driven, API Security
+Human: .... BKS (native), German (fluent), English (fluent)
 
-- 💼 Currently: **Full Stack Developer @ [Eversports](https://www.eversports.com)**  
-- 🔧 Previously: **Tech Lead & Full Stack Developer @ [Bosch Engineering Austria](https://www.bosch-engineering.com/)**  
-- 💡 Experienced in transitioning legacy systems to microservices, designing scalable architectures, and implementing enterprise-level authentication and CI/CD pipelines  
-- 🧩 Advocate for clean code, thoughtful architecture, and efficient DevOps processes  
-- 🌱 Always exploring new technologies
+Education: .... MSc Business Informatics, FH Technikum Wien
+Education: ... MSc Business Analytics & Big Data, HSE Moscow
+Education: ............. BSc Electronics, FH Technikum Wien
 
----
+Projects: ...... SmartExPort (AI export platform, Lead Dev)
+Projects: ................ ML Python (OSS, ML crash course)
 
-## 🛠️ **Tech Stack**
+── Contact ──────────────────────────────────────────────
+Email: ........................... faruk.valjevac@gmail.com
+LinkedIn: ........................... faruk-valjevac-webdev
+</pre>
 
-**Frontend:** React.js · Next.js · TypeScript · Svelte  
-**Backend:** NestJS · Node.js · Python · C#  
-**Databases:** MySQL · PostgreSQL · Microsoft SQL Server  
-**Cloud & DevOps:** AWS · Microsoft Azure · Docker · Kubernetes · GitHub Actions · CI/CD  
-**Other Tools:** GraphQL · ollama · TensorFlow · Power BI · Jira · Confluence  
-
----
-
-## ⚡ **Fun Facts**
-
-- I started as a **cinema cashier and call agent** 2010, learning the art of communication and customer focus long before writing my first line of code. 
-- Father since 2025, backpacker since 2012, techie since 1992. 
-- I’ve contributed to IT projects across industries — **IoT, automotive, cloud, and sports**.  
-- Outside tech, I enjoy running, traveling, and movies.
-
----
-
-## 📫 **Get in Touch**
-
-<p align="left">
-  <a href="mailto:faruk.valjevac@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/faruk-valjevac-webdev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
----
-
-⭐️ *"Clean architecture isn’t just about code — it’s about respect for your future self and your teammates."* --> 
-
+</td>
+</tr>
+</table>
