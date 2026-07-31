@@ -1,32 +1,32 @@
 
 
 <pre>
-faruk-valjevac ────────────────────────────────────────────
-OS: .......................................... macOS, Linux
-Host: ..................................... Vienna, Austria
-Kernel: .......................... Full-Stack Web Developer
-Current: ....................................... Eversports
-Prev: ....................... Bosch Engineering (Tech Lead)
+faruk-valjevac ──────────────────────────────────────────────────────────────────────────────────────────────────────
+OS: .................................................................................................... macOS, Linux
+Host: ............................................................................................... Vienna, Austria
+Kernel: .................................................................................... Full-Stack Web Developer
+Current: ................................................................................................. Eversports
+Prev: ................................................................................. Bosch Engineering (Tech Lead)
 
-Languages: ............. TypeScript, JavaScript, Python, C#
-Frameworks: ....... NestJS, Next.js, React, Vue.js, Node.js
-Databases: ............. PostgreSQL, MongoDB, Oracle, Redis
-Cloud/DevOps: .......... AWS, Azure, Docker, GitHub Actions
-AI/ML: ........ Machine Learning, TensorFlow, Keras, Ollama
-Testing: .................................. Jest, xUnit.net
-Practices: ... Clean Code, Agile, Event-driven, API Security
-Human: .... BKS (native), German (fluent), English (fluent)
+Languages.Human: .................................................... BKS (native), German (fluent), English (fluent)
+Languages.Computer: .............................................................. TypeScript, JavaScript, Python, C#
+Frameworks: ................................................................. NestJS, Next.js, React, Vue.js, Node.js
+Databases: ....................................................................... PostgreSQL, MongoDB, Oracle, Redis
+Cloud/DevOps: .................................................................... AWS, Azure, Docker, GitHub Actions
+AI/ML: .................................................................. Machine Learning, TensorFlow, Keras, Ollama
+Testing: ............................................................................................ Jest, xUnit.net
+Practices: ............................................................ Clean Code, Agile, Event-driven, API Security
 
-Education: .... MSc Business Informatics, FH Technikum Wien
-Education: ... MSc Business Analytics & Big Data, HSE Moscow
-Education: ............. BSc Electronics, FH Technikum Wien
+Education: .............................................................. MSc Business Informatics, FH Technikum Wien
+Education: ............................................................ MSc Business Analytics & Big Data, HSE Moscow
+Education: ....................................................................... BSc Electronics, FH Technikum Wien
 
-Projects: ...... SmartExPort (AI export platform, Lead Dev)
-Projects: ................ ML Python (OSS, ML crash course)
+Projects: ................................................................ SmartExPort (AI export platform, Lead Dev)
+Projects: .......................................................................... ML Python (OSS, ML crash course)
 
-── Contact ──────────────────────────────────────────────
-Email: ........................... faruk.valjevac@gmail.com
-LinkedIn: ........................... faruk-valjevac-webdev
+── Contact ─────────────────────────────────────────────────────────────────────────────────────────────────────────
+Email: .................................................................................... faruk.valjevac@gmail.com
+LinkedIn: .................................................................................... faruk-valjevac-webdev
 </pre>
 
 </td>
