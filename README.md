@@ -11,11 +11,11 @@ Prev: ..........................................................................
 Languages.Human: ................................................ BKS (native), German (fluent), English (fluent)
 Languages.Computer: .......................................................... TypeScript, JavaScript, Python, C#
 Frameworks: ............................................................. NestJS, Next.js, React, Vue.js, Node.js
-Databases: ................................................................... PostgreSQL, MongoDB, Oracle, Redis
+Databases/Cache: ............................................................. MongoDB, PostgreSQL, Oracle, Redis
 Cloud/DevOps: ................................................................ AWS, Azure, Docker, GitHub Actions
-AI Tools: ........................................................................ Claude, Codex, Copilot, Ollama
-ML: ......................................................................... Machine Learning, TensorFlow, Keras
-Testing: ........................................................................................ Jest, xUnit.net
+AI: .............................................................................. Claude, Codex, Copilot, Ollama
+ML: .................................................................... ⁠Scikit-learn, TensorFlow, Keras, PyTorch
+Testing: ................................................................... Cypress, Playwright, Jest, xUnit.net
 Practices: ........................................................ Clean Code, Agile, Event-driven, API Security
 
 Education.MSc: .......................................................... Business Informatics, FH Technikum Wien
@@ -30,6 +30,4 @@ Email: .........................................................................
 LinkedIn: ................................................................................ faruk-valjevac-webdev
 </pre>
 
-</td>
-</tr>
-</table>
+
