@@ -16,14 +16,10 @@ ML: .................................................................... ⁠Scik
 Testing: ................................................................... Cypress, Playwright, Jest, xUnit.net
 Practices: ........................................................ Clean Code, Event-driven, API Security, Agile
 
-Education.MSc: .......................................................... Business Informatics, FH Technikum Wien
-Education.MSc: ........................................................ Business Analytics & Big Data, HSE Moscow
-Education.BSc: ................................................................... Electronics, FH Technikum Wien
-
 Project: ............................................................. SmartExPort (AI export platform, Lead Dev)
 Project: ....................................................................... ML Python (OSS, ML crash course)
 
-── Contact ─────────────────────────────────────────────────────────────────────────────────────────────────────
-Email: ................................................................................ faruk.valjevac@gmail.com
-LinkedIn: ................................................................................ faruk-valjevac-webdev
+Education.MSc: .......................................................... Business Informatics, FH Technikum Wien
+Education.MSc: ........................................................ Business Analytics & Big Data, HSE Moscow
+Education.BSc: ................................................................... Electronics, FH Technikum Wien
 </pre>
