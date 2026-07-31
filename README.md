@@ -13,7 +13,8 @@ Languages.Computer: .......................................................... T
 Frameworks: ............................................................. NestJS, Next.js, React, Vue.js, Node.js
 Databases: ................................................................... PostgreSQL, MongoDB, Oracle, Redis
 Cloud/DevOps: ................................................................ AWS, Azure, Docker, GitHub Actions
-AI/ML: .............................................................. Machine Learning, TensorFlow, Keras, Ollama
+AI Tools: ........................................................................ Claude, Codex, Copilot, Ollama
+ML: ......................................................................... Machine Learning, TensorFlow, Keras
 Testing: ........................................................................................ Jest, xUnit.net
 Practices: ........................................................ Clean Code, Agile, Event-driven, API Security
 
